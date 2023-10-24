@@ -1,0 +1,13 @@
+{
+  "networks": {
+    "emulator": "127.0.0.1:3569",
+    "mainnet": "access1.findlabs.io:9000",
+    "testnet": "access.devnet.nodes.onflow.org:9000"
+  },
+  "accounts": {
+    "emulator-account": {
+      "address": "f8d6e0586b0a20c7",
+      "key": "c6b398ef90632589511bb8c45a547cd8b15d931e0de420a57044825b0b28c05f"
+    }
+  }
+}
